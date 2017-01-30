@@ -18,7 +18,7 @@
 <form action="" method="post">
     <fieldset>
         <legend>String operations</legend>
-        <label for="str"></label>
+        <label for="str">Chek input</label>
         <input type="text" name="str" id="str" required>
         <input type="radio" name="option" value="palindrome" title="Check Palindrome" required> Check Palindrome
         <input type="radio" name="option" value="reverse" title="Reverse string"> Reverse string
