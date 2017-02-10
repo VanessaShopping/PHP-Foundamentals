@@ -9,10 +9,10 @@
 $numsArray = array_map('trim', explode(' ', fgets(STDIN)));
 $numberOfIndices = count($numsArray);
 $counter = 1;
-$max=0;
-$num=0;
-for ($i=0; $i< $numberOfIndices; $i++) {
-    if ($i == $numberOfIndices-1) {
+$max = 0;
+$num = 0;
+for ($i = 0; $i < $numberOfIndices; $i++) {
+    if ($i == $numberOfIndices - 1) {
         break;
     } else {
         if ($numsArray[$i] == $numsArray[$i + 1]) {
@@ -21,8 +21,7 @@ for ($i=0; $i< $numberOfIndices; $i++) {
                 $max = $counter;
                 $num = $numsArray[$i];
             }
-        }
-        else {
+        } else {
             $counter = 1;
         };
     }
@@ -30,6 +29,6 @@ for ($i=0; $i< $numberOfIndices; $i++) {
 if ($counter == 1) {
     echo $numsArray[0];
 }
-for ($i = 0 ; $i< $max; $i++) {
+for ($i = 0; $i < $max; $i++) {
     echo $num . ' ';
 }

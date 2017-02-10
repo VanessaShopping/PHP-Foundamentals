@@ -6,11 +6,10 @@
  * Time: 4:50 PM
  */
 
-$str = strtolower(fgets(STDIN));
-$arr = [];
-$count = strlen($str);
-for ($i = 0 ; $i< $count-2; $i++) {
-    $ord = (ord($str[$i]) - 97);
-    echo $str[$i]. ' -> ';
+$inputText = trim(strtolower(fgets(STDIN)));
+$count = strlen($inputText); // дължина на текста
+for ($i = 0 ; $i< $count; $i++) {
+    $ord = (ord($inputText[$i]) - 97); // ord -> Ordinal пореден. Return ASCII value of character
+    echo $inputText[$i]. ' -> ';
     echo $ord . "\n";
 }

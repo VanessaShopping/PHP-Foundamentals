@@ -6,7 +6,7 @@
  * Time: 4:49 PM
  */
 
-$nums = array_map('trim', explode(' ', fgets(STDIN)));
+/*$nums = array_map('trim', explode(' ', fgets(STDIN)));
 $count = count($nums);
 $counter = 0;
 $max = 0;
@@ -25,4 +25,11 @@ for ($i=0;$i<$count; $i++) {
         }
     }
 }
-echo $num;
+echo $num;*/
+
+// Второ решение.
+
+$nums = array_map('trim', explode(' ', fgets(STDIN)));
+$nums = array_count_values($nums);
+arsort($nums);
+echo $first_key = key($nums);
