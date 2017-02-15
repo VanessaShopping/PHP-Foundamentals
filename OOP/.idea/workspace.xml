@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7e181d24-0cba-44fb-9921-65710667a2a4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Homework/OOP-Basic/05 Speed Racing/Cars.php" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Homework/OOP-Basic/Person.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Homework/OOP-Basic/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/001 First class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/002 Constructor.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/003 Inheritance.php" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/004 Static Method, Property, Class.php" afterPath="$PROJECT_DIR$/../Homework/OOP-Basic/05 Speed Racing/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ClassWork/Battle/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ClassWork/Battle/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ClassWork/Battle/Player.php" afterPath="$PROJECT_DIR$/../ClassWork/Battle/Player.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ClassWork/Battle/index.php" afterPath="$PROJECT_DIR$/../ClassWork/Battle/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Homework/Functions/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Homework/Functions/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Homework/OOP-Basic/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Homework/OOP-Basic/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="7e181d24-0cba-44fb-9921-65710667a2a4" name="Default" comment="" />
     <ignored path="OOP.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -401,12 +387,12 @@
       <workItem from="1485761480221" duration="569000" />
       <workItem from="1485792553631" duration="11786000" />
       <workItem from="1487076467637" duration="12092000" />
-      <workItem from="1487148688436" duration="4329000" />
+      <workItem from="1487148688436" duration="4926000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28776000" />
+    <option name="totallyTimeSpent" value="29373000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
