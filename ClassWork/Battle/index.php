@@ -19,8 +19,8 @@ require_once 'Battle.php';
     </form>
 <?php
 if (isset($_GET{'start'})) {
-    $player1 = new Player($_GET['player_one_name']);
-    $player2 = new Player($_GET['player_two_name']);
+    $player1 = new Player($_GET['player_one_name'], 30);
+    $player2 = new Player($_GET['player_two_name'], 30);
     $battle = new Battle($player1, $player2);
     $battle->start();
 

@@ -15,10 +15,10 @@ class Player
     private $health;
     private $attack;
 
-    public function __construct(string $name)
+    public function __construct(string $name, int $health)
     {
         $this->name = $name;
-        $this->health = rand(20, 60);
+        $this->health = $health;
         $this->attack = rand(1, 8);
         $this->id = ++self::$lastId;
     }
