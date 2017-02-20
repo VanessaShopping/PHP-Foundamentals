@@ -10,5 +10,5 @@ include_once "PrivatePublicProtected.php";
 $protected = new PrivatePublicProtected();
 $protected->showProtected();
 
-$private = new PrivatePublicProtected(); // Няма да ни позволи да достъпим private методи или private свойства :)
-$private->showPrivate();
+/*$private = new PrivatePublicProtected(); // Няма да ни позволи да достъпим private методи или private свойства :)
+$private->showPrivate();*/

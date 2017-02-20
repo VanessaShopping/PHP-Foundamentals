@@ -35,6 +35,6 @@ class Car
     public function __toString() // Позволява обекта да се принтира като стринг
     {
         // TODO: Implement __toString() method.
-        return $this->model . " " . number_format($this->fuelAmount, 2) . " " . ceil($this->distanceTravelled);
+        return $this->model . " " . number_format($this->fuelAmount, 2) . " " . $this->distanceTravelled;
     }
 }
