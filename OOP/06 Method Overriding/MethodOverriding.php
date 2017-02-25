@@ -14,7 +14,7 @@ include 'C:\xampp\htdocs\PHP-Foundamentals\OOP\05 Inheritance\Human.php';
 class MethodOverriding extends Human
 {
 
-    public function goToEat() // Презаписване на методи. Този метод е от класа Animal. Animal e extends на Human
+    public function goToEat() // Презаписване на методи. Този метод е от класа Animal. Human e extends на Animal
         // Метода в класа Animal няма да се изпълни, понеже php ще намери  първо метода в класа MethdOverriding .
     {
         echo "Method is overriding :) \n";

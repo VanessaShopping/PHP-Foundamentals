@@ -10,7 +10,7 @@ include_once 'Properties.php';
 
 $carOne = new Properties();
 $carOne->setModel('Audi'); // В обекта $carOne извикваме метода setModel
-// който очаква стринг с името на модела.
+// който очаква стринг с името на модела кола.
 // В обекта има свйство $carModel. Това свойство получава името което сме дали ,чрез метода setModel()
 $carTwo = new Properties();
 $carTwo->setModel('BMW');
