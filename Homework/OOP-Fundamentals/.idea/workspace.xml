@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cb9d3f78-1fb1-4295-be9d-e9e044a8bd46" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../ClassWork/SessionHandling/01.PrintTags/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../ClassWork/SessionHandling/01.PrintTags/view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../ClassWork/SessionHandling/02.MostFrequentTag/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../ClassWork/SessionHandling/02.MostFrequentTag/view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../ClassWork/SessionHandling/03.CalculateInterest/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../ClassWork/SessionHandling/03.CalculateInterest/view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../ClassWork/SessionHandling/04.HtmlTagCounter/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../ClassWork/SessionHandling/04.HtmlTagCounter/view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../ClassWork/SessionHandling/05.CvGenerator/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../ClassWork/SessionHandling/05.CvGenerator/views/cv.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../ClassWork/SessionHandling/05.CvGenerator/views/form.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOP-Basic/09.Google/GoogleApp/App.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOP-Basic/09.Google/GoogleApp/Models/Car.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOP-Basic/09.Google/GoogleApp/Models/Company.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOP-Basic/09.Google/GoogleApp/Models/Person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOP-Basic/09.Google/GoogleApp/Models/Pokemon.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOP-Basic/09.Google/GoogleApp/Models/Relative.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOP-Basic/09.Google/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOP-Basic/10.SayHello/Person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOP-Basic/10.SayHello/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOP-Basic/11.OldestFamilyMember/Family.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOP-Basic/11.OldestFamilyMember/Person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOP-Basic/11.OldestFamilyMember/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOP-Basic/12.LastDigitName/Number.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOP-Basic/12.LastDigitName/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOP-Basic/13.NumberInReversedOrder/DecimalNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOP-Basic/13.NumberInReversedOrder/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOP-Basic/14.FibonacciNumbers/Fibonacci.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOP-Basic/14.FibonacciNumbers/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOP-Basic/15.Car/CarApp/App.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOP-Basic/15.Car/CarApp/Models/Car.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOP-Basic/15.Car/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOP-Basic/16.DateModifier/DateModifier.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOP-Basic/16.DateModifier/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOP-Basic/17.PrintPeople/Person.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOP-Basic/17.PrintPeople/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Private MVC/Classes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Private MVC/Introduction" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Private MVC/MVC Framework/Source Files/App.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Private MVC/MVC Framework/Source Files/Config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Private MVC/MVC Framework/Source Files/Loader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Private MVC/MVC Test/public/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ClassWork/SessionHandling/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../ClassWork/SessionHandling/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP-Basic/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../OOP-Basic/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../OOP/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../OOP/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../Private MVC/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../Private MVC/.idea/workspace.xml" />
+    </list>
+    <ignored path="OOP-Fundamentals.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="OOP-Fundamentals" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OOP-Fundamentals" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb9d3f78-1fb1-4295-be9d-e9e044a8bd46" name="Default" comment="" />
+      <created>1488270247564</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1488270247564</updated>
+      <workItem from="1488270248827" duration="600000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="600000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="1" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>
