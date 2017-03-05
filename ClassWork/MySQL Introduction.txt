@@ -1,0 +1,50 @@
+CRUD --> 
+
+Create 	-> INSERT
+Read 	-> SELECT
+Update	-> UPDATE
+Delete	-> DELETE
+
+
+Релационни БД
+	
+	1 to 1			=> OneToOne
+	1 to много 		=> OneToMany
+	много to 1 		=> ManyToOne
+	много to много  => ManyToMany
+  
+  
+Сечение на множества ==> INNER JOIN , LEFT (outer) JOIN , RIGHT (outer) JOIN
+		
+		SELECT
+			people.first_name,
+			people.last_name,
+			people.nickname,
+			countries.name
+		FROM
+			people
+		INNER JOIN
+			countries
+		ON
+			countries.id = people.country_id
+			
+
+		Дай ми 
+			име,фамилия,никнейм и държава 
+		ОТ
+			таблица people
+		INNER JOIN (сечение със)?
+			таблица countries
+		ПРИ
+			countries.id = people.country_id
+			
+												*** S Q L ***
+			
+DDL -> data definition language												DML -> data manipulation language
+CREATE TABLE																		C R U D
+CREATE DB
+ALTER TABLE
+
+
+ACID (Atomicity, Consistency, Isolation, Durability)
+
