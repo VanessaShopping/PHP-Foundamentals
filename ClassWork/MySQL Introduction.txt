@@ -1,3 +1,10 @@
+utf8-bin - чувствителност към малки и големи букви
+utf_general_ci (case insensitive) без чувствителност към малки и големи букви 
+
+***INDEX***
+
+
+
 CRUD --> 
 
 Create 	-> INSERT

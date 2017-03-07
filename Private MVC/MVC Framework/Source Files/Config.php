@@ -20,6 +20,11 @@ class Config // read only => singleton template
 
     }
 
+    public function getConfigFolder()
+    {
+        return $this->_configFolder;
+    }
+
     public function setConfigFolder($configFolder) // $configFolder пътя към папката за конфигурация
     {
         if (!$configFolder) {
@@ -45,10 +50,12 @@ class Config // read only => singleton template
         }
         $_file = realpath($path);
         if ($_file != false && is_file($_file) && is_readable($_file)) {
-            $_basename = explode('.php', basename($_file))[0];
-            include $_file;
-            $this->_configArray[$_basename] = $cnf;
-        } else{
+            $_basename = explode('.php', basename($_file))[0]; // името на файла
+            // basename връща само името на файла като премахне директорията до файла
+            // MVC Framework / Source Files / App.php  ==> App
+
+            $this->_configArray[$_basename] = include $_file;
+        } else {
             // TODO
             throw new \Exception('Config file read error:' . $path);
         }
