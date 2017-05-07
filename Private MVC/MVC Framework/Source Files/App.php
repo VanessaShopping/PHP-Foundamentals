@@ -11,7 +11,7 @@ include 'Loader.php';
 
 class App
 {
-    private static $_instane = null;
+    private static $_instance = null;
     private $_config = null;
 
 
@@ -51,9 +51,9 @@ class App
      */
     public static function getInstance()
     {
-        if (self::$_instane == null) {
-            self::$_instane = new \MVCFramework\App();
+        if (self::$_instance == null) {
+            self::$_instance = new \MVCFramework\App();
         }
-        return self::$_instane;
+        return self::$_instance;
     }
 }

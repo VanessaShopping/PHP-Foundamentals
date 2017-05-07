@@ -12,7 +12,6 @@ final class Loader
 {
 // Никога не трябва да има инстанция
 // Никога не трябва да бъде наследяван
-// Ползва се ???????
 
     private static $namespace = array();
 
@@ -71,7 +70,7 @@ final class Loader
         $namespace = trim($namespace);
 
         if (strlen($namespace) > 0) { // Проверяваме дали е подаден някакъв неймспасе, Ако не е отиваме в else и хвърляме Exception
-            if (!$path) { // Проверяваме дали има път , подадения namespace, Ако няма хвърляме Exception
+            if (!$path) { // Проверяваме дали има път подадения namespace, Ако няма хвърляме Exception
                 throw new \Exception('Invalid path');
             }
 
@@ -87,9 +86,9 @@ final class Loader
                 self::$namespace[$namespace . '\\'] = $_path . DIRECTORY_SEPARATOR;
                 // Като ключ на масива $namespace слагаме името на namespace-a
                 // Като стойност слагаме пътя + DIRECTORY_SEPARATOR
-                // Dir_Sep = Linux /  , Windows \ . Разделител който според зависи на каква ОС сме
+                // DIRECTORY_SEPARATOR = Linux /  , Windows \ . Разделител който според зависи на каква ОС сме
             } else {
-                throw new \Exception('Koftiii - >Namespace directory read error' . $path);
+                throw new \Exception('Koftiii - > Namespace directory read error' . $path);
             }
         } else {
             // TODO

@@ -50,7 +50,9 @@ Controller - Гара разпределителна. Определя кои м
         - Input
 
 
-                                        Сехма на работа
+                                        Схема на работа
 
       Входящи Данни   -->  Application  --> FrontController  -->  Controller   --> View
-                                                 Router              Model
+                                                  |                   |
+                                                  |                   |
+                                                Router               Model

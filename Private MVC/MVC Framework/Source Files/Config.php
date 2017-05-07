@@ -33,8 +33,7 @@ class Config // read only => singleton template
         $_configFolder = realpath($configFolder);
 
         if ($_configFolder != false && is_dir($_configFolder) && is_readable($_configFolder)) {
-            // clear old config data
-            $this->_configArray = array();
+            $this->_configArray = array(); // clear old config data
             $this->_configFolder = $configFolder . DIRECTORY_SEPARATOR;
         } else {
             throw new \Exception('Config directory read error: ' . $configFolder);
@@ -77,8 +76,7 @@ class Config // read only => singleton template
     /**
      * @return \MVCFramework\Config
      */
-    public
-    static function getInstance()
+    public static function getInstance()
     {
         if (self::$_instance == null) {
             self::$_instance = new \MVCFramework\Config();
